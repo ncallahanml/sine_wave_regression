@@ -1,3 +1,4 @@
 *.csv
 *.joblib
+*.zip
 .ipynb_checkpoints/
