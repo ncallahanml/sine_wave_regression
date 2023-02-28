@@ -2,3 +2,4 @@
 *.joblib
 .ipynb_checkpoints/
 detected_edges/
+trimmed_edges/
