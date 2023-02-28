@@ -1,4 +1,6 @@
 *.csv
 *.joblib
 *.zip
+detected_edges/
+trimmed_edges/
 .ipynb_checkpoints/
