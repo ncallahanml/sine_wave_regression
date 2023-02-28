@@ -1,3 +1,4 @@
 *.csv
 *.joblib
 .ipynb_checkpoints/
+detected_edges/
